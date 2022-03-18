@@ -33,7 +33,7 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Isaac",
+				Name: "Isaac Jiménez Marín",
 				Photo: "isaac.png",
 				Quote: "La vida son dos días",
 				Age: 26,
@@ -49,7 +49,7 @@ angular.module("angular", [])
 				], 
 				Goals: ["Ir a Hawai a ganar el campeonato mundial de surf", "Prácticar también otro tipo de deportes tanto con la tabla de snowboard o como tenis"],
 				Frustrations: ["Le gustaría tocar la batería pero es bastante arrítmico", "Se lesionó y no pudo competir durante años, lo que bajó mucho su motivación"],
-				Bio: "Nació en Cádiz y desde los 6 años ya surfeaba las olas cuando le enseñó su tio. Estudió la FP del TFAD para convertirse en un buen instructor de surf",
+				Bio: "Nació en Cádiz y desde los 6 años ya surfeaba las olas cuando le enseñó su tio. Estudió la FP del TFAD para convertirse en un buen instructor de surf. Su afición por la música comenzó a los 9 años cuando escuchó en la radio la canción de Zapatillas de El Canto de el Loco y desde entonces comenzó a explorar otros artistas como Melendi.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Movil", Value: 2 },
