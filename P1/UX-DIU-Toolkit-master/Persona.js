@@ -34,7 +34,7 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Isaac",
-				Photo: "man.png",
+				Photo: "isaac.png",
 				Quote: "La vida son dos días",
 				Age: 26,
 				Occupation: "Coach de surf",
