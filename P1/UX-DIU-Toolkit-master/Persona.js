@@ -74,11 +74,11 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
+				Name: "Alba Benítez Roldán",
+				Photo: "alba.png",
+				Quote: "Lo primero es la salud",
+				Age: 24,
+				Occupation: "Estudiante de Medicina",
 				Family: "No parents, only family are the people who raised him.",
 				Location: "The Grassy Plains of Fantasia",
 				Character: "Strong, reliable and fearless.",
