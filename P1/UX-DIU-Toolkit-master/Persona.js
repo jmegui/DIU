@@ -51,18 +51,18 @@ angular.module("angular", [])
 				Frustrations: ["Le gustaría tocar la batería pero es bastante arrítmico", "Se lesionó y no pudo competir durante años, lo que bajó mucho su motivación"],
 				Bio: "Nació en Cádiz y desde los 6 años ya surfeaba las olas cuando le enseñó su tio. Estudió la FP del TFAD para convertirse en un buen instructor de surf. Su afición por la música comenzó a los 9 años cuando escuchó en la radio la canción de Zapatillas de El Canto de el Loco y desde entonces comenzó a explorar otros artistas como Melendi.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
+					{ Name: "TIC/Internet", Value: 1 },
+					{ Name: "Movil", Value: 3 },
+					{ Name: "RRSS", Value: 4 },
+					{ Name: "Software", Value: 0 }
 					
 				], 
                 Contextos: "Quiere visitar otros lugares de Andalucía y Granada era una buena opción para probar el tapeo y subir a la Sierra a prácticar Snowboard",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
-					{ Name: "Online & Social Media", Value: 3 },
+					{ Name: "Publicidad Tradicional", Value: 1 },
+					{ Name: "Online & Social Media", Value: 4 },
 					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 3 }
 				]
 			},
 			{	
