@@ -34,55 +34,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Name: "Isaac",
+                Photo: "isaac.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
+                goal1: "Quiere preparar un viaje con algunos colegas para practicar el snowboard",
+                touch1: "Ordenador",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
+                con1: "Buscar un buen lugar para descansar sin gastar demasiado pero con unos servicios aceptables ",
                 ima1: "cartoon-planning.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
+                goal2: "Le explica a sus colegas  el plan y les pide que vayan buscando algo que esté bien",
                 touch2: "Movil",
                 feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
+                con2: "Muchos son cuchitriles y no dan el espacio que es necesario para almacenar el material (tablas de snow, chaquetones, ropa,...)",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
+                goal3: "Él sigue buscando un poco más y encuentra un buen lugar cerca del LemonRock",
+                touch3: "Móvil",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
+                con3: "No le parece perecto pero tiene un ambiente que no está mal",
                 ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                goal4: "Sus colegas consiguen encontrar otros alojamientos que incluso están al lado de las pistas",
+                touch4: "Ordenador",
+                feel4: "2",
+                con4: "Revisá las opciones observando el precio y las facilidades para aparcar y guardar el equipaje",
+                ima4: "cartoon-looking.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
+                goal5: "Encuentra dos alojamientos cerca de las pistas que son buena opción",
+                touch5: "Móvil",
+                feel5: "3",
+                con5: "Llama a sus amigos, pero al darse cuenta de que hay unos precios desorbitados por la época turística deciden quedarse en Granada",
                 ima5: "cartoon-phoning.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                goal6: "Al final se quedan en el LemonRock y así pueden compatibilizar mejor subir a la sierra y visitar los sitios de Granada",
+                touch6: "Móvil",
+                feel6: "4",
+                con6: "No les gusta mucho por el tema de tener que viajar casi todos los días, pero de todas formas iban a hacerlo igual si querían ver la ciudad y al final sale a mejor precio",
+                ima6: "cartoon-happy.png",
                 
 			},
 			{	
@@ -92,8 +92,8 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Alba Benítez",
+                Photo: "alba.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
