@@ -42,10 +42,10 @@ angular.module("angular", [])
 				Location: "Cádiz (San Fernando)",
 				Character: "Apasionado de la música, extrovertido, creativo, amante de los deportes acuáticos",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 9 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 7 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 8 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 6 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 5 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
 				Goals: ["Ir a Hawai a ganar el campeonato mundial de surf", "Prácticar también otro tipo de deportes tanto con la tabla de snowboard o como tenis"],
 				Frustrations: ["Le gustaría tocar la batería pero es bastante arrítmico", "Se lesionó y no pudo competir durante años, lo que bajó mucho su motivación"],
@@ -79,31 +79,31 @@ angular.module("angular", [])
 				Quote: "Lo primero es la salud",
 				Age: 24,
 				Occupation: "Estudiante de Medicina",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Family: "Sus padres y su hermana.",
+				Location: "Albacete(Fuente-Álamo)",
+				Character: "Le encantan los animales, la música y salir con sus amigos",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Tocar en una banda de jazz.", "Vivir en Estados Unidos.", "Trabajar como cirujana."],
+				Frustrations: ["Aún le quedan varias asignaturas de la carrera.", "Le gusta viajar mucho pero ahora mismo no se encuentra en buena situación económica."],
+				Bio: "Nació en Albacete en un entorno rural. Desde pequeña le interesó el tema de ayudar a las personas y tenía claro su deseo de estudiar medicina. A la edad de 10 años comenzó a adentrarse en el mundo de la música aprendiendo nociones básicas de solfeo. A día de sabe tocar el saxofón y le encantaría ser integrante de una banda de Jazz, aunque esto no es fácil de compajinar con los estudios.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "TIC/Internet", Value: 4 },
+					{ Name: "Mobile", Value: 4 },
+					{ Name: "RRSS", Value: 2 },
+					{ Name: "Software", Value: 3 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "En sus ratos libres quiere seguir dedicando tiempo al jazz y le han hablado de un hostal en Granada, este cuenta con eventos de música y muchos de ellos relacionados con jazz. Por esto ha decidido hospedarse un fin de semana y visitar Granada ya que aún no ha estado." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Publicidad Tradicional (Ads)", Value: 2 },
+					{ Name: "Online & Social Media", Value: 4 },
+					{ Name: "Recomendaciones & sugerencias", Value: 1 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 3 }
 				]
 			}
 		];

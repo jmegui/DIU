@@ -96,51 +96,51 @@ angular.module("angular", [])
                 Photo: "alba.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
+                goal1: "Quiere hacer la reserva del hostal del que le han hablado y consulta posibles fechas",
                 touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                feel1: "4",
+                con1: "Los eventos pueden no cuadrar para cuando ella pueda ir",
+                ima1: "cartoon-looking.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                goal2: "Realizar la reserva para dentro de dos fines de semana",
+                touch2: "Página web",
+                feel2: "3",
+                con2: "Tiene poco tiempo para realizar la reserva",
+                ima2: "cartoon-PCtyping.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                goal3: "Consigue realizar la reserva con éxito",
+                touch3: "Página web",
+                feel3: "5",
+                con3: "Además le coincide la reserva con un evento de Jazz",
+                ima3: "cartoon-happy.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
+                goal4: "Revisa la ubicación y las maneras de llegar",
+                touch4: "Página web",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                con4: "No cuenta con mucha información sobre alternativas y costes",
+                ima4: "cartoon-ko.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
+                goal5: "Busca por otro lado alternativas para el viaje hasta allí ",
+                touch5: "Internet",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                con5: "Pierde mucho tiempo encontrando información al respecto aunque al final encuentra una buena opción",
+                ima5: "cartoon-PChard.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Consiguie reservar y le coincide con buenos eventos pero ha perdido mucho tiempo",
+                touch6: "Internet",
+                feel6: "4",
+                con6: "Tendrá que buscar más información del lugar para ver que sitios de Granada puede visitar",
+                ima6: "cartoon-going.png",
                 
                 
                 
