@@ -35,7 +35,8 @@ DIU1.JR - Rafael Guzmán Valverde y Javier Mesa Guirado
 
 - Revisión de Usabilidad 
 
-  
+  <a href="https://github.com/jmegui/DIU/blob/master/P1/Usability-review-lemonrock.pdf">Enlace al archivo</a>
+  Valoración: 61
 
 
 (valoración y conclusiones de esta etapa)
