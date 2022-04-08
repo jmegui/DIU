@@ -1,4 +1,4 @@
-## DIU - Practica2, entregables
+## DIU - Practica2.
 
 ### Ideación 
 * Malla receptora de información 
@@ -26,4 +26,4 @@
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
