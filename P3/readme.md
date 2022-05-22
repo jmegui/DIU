@@ -14,12 +14,12 @@ https://app.milanote.com/1NK7dt1KTYdh9k?p=eixDA1uLGic
 
 Paleta de colores: Hemos utilizado como color predominante el amarillo, siendo continuistas con la página original y principal del LemonRock haciendo referencia al “lemon” de su nombre. 
 
+<img width="620" alt="Captura de Pantalla 2022-05-21 a las 18 25 24" src="https://user-images.githubusercontent.com/93380342/169660653-2095c52a-c3c4-4d2f-853e-49a4cfe5c346.png">
 
 Iconografía: 
 Se va a utilizar la misma que se presentó en la práctica 2
 
-<img width="620" alt="Captura de Pantalla 2022-05-21 a las 18 25 24" src="https://user-images.githubusercontent.com/93380342/169660653-2095c52a-c3c4-4d2f-853e-49a4cfe5c346.png">
-
+<img width="613" alt="Captura de Pantalla 2022-05-22 a las 10 13 06" src="https://user-images.githubusercontent.com/93380342/169685376-4cbb9db6-abc3-4e51-b5d5-3aa67ff2bff0.png">
 
 Tipografía: 
 Nos hemos decidido por la fuente "Roboto-flex" para títulos y “Rubik” para descripciones.
@@ -30,10 +30,29 @@ Para desarrollo web se pueden encontrar las guidelines establecidas como WCAG (W
  
 https://www.w3.org/TR/WCAG21/
 
+Navegación:
+
 Para el acceso a eventos, el diseño se basa en:
 https://ui-patterns.com/patterns/EventCalendar
 
 De manera que el estilo se basa en un listado principalmente clasificado por fechas y que proporciona una información básica sobre el evento antes de acceder al mismo.
+
+Input:
+	
+Para elegir el día en el que queremos introducir la fecha usamos el patrón de formato estructurado:
+https://ui-patterns.com/patterns/StructuredFormat
+
+Si se realiza una reserva estaría bien que se pudiera observar que se ha confirmado el cambio para el usuario que lo ha hecho:
+https://ui-patterns.com/patterns/morphing-controls
+
+En caso de necesitar algo de seguridad se podrían usar captchas para asegurar que quien reserva es una persona real:
+https://ui-patterns.com/patterns/Captcha
+
+Social
+	
+Sería una idea interesante añadir un boton para compartir por las redes sociales el evento al que se quiere ir y para anunciarlo a tus amigos
+https://ui-patterns.com/patterns/auto-sharing
+
 
 ## Mockup: LAYOUT HI-FI
 
